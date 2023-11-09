@@ -1,4 +1,4 @@
-## SpringMVC Helloworld
+# SpringMVC Helloworld
 
 
 **Step 1: Set Up the Project**
